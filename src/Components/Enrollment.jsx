@@ -53,7 +53,7 @@ function Enrollment() {
     <>
       <div className="container">
         {/* Enrollement */}
-        <section className="clearfix mt-3" >
+        <section className="clearfix mt-5" >
           <h4 className="fs-3 rounded-4 text-center heading2 p-4 text-white lt-spc2" style={{backgroundColor:"#C294a8"}} >
             Enrollment Ending Soon.{" "}
             <span className="fw-semibold text-uppercase ">
@@ -69,7 +69,7 @@ function Enrollment() {
             </h4>
           </section>
         </section>
-        <div className="container row justify-content-center align-items-center" style={{backgroundColor:"#f9f4f6"}}>
+        <div className="container row justify-content-center align-items-center pb-4" style={{backgroundColor:"#f9f4f6"}}>
           {/* Course */}
           {/* section-01 */}
           <section className=" mt-4 p-4 rounded-4 col-md-5" style={{backgroundColor:'#eddfe5'}}>
