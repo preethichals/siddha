@@ -4,7 +4,7 @@ function MainPage() {
   return (
     <>
       <div className=" ">
-        <div className="container pt-4 pb-4">
+        <div className="container pt-2 pb-4">
           <div className="row">
              {/* Section */}
           <section
