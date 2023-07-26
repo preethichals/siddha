@@ -96,7 +96,7 @@ function Enrollment() {
                         style={{ backgroundColor: "#ffffff" }}
                       />
                     </span>
-                    <span className="fs-6 lh-lg ms-2"> {m.course}</span>{" "}
+                    <span className="fs-6 ms-2"> {m.course}</span>{" "}
                   </p>
                 );
               })}
@@ -129,7 +129,7 @@ function Enrollment() {
                         style={{ backgroundColor: "#E3e3e3" }}
                       />
                     </span>
-                    <span className="fs-6 lh-lg ms-2"> {m.course}</span>{" "}
+                    <span className="fs-6  ms-2"> {m.course}</span>{" "}
                   </p>
                 );
               })}
